@@ -1,3 +1,0 @@
-# Quadrilateral
-By Ganpat
-hhh
