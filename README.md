@@ -1,3 +1,3 @@
 # Quadrilateral
-It is a team driven by Faheem Ahmad
-bloody 
+It is  team driven by Faheem Ahmad.
+bloody.
